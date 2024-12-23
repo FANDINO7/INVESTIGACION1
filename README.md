@@ -38,5 +38,5 @@ Es un dispositivo que convierte la señal en un formato más fácil de leer, con
 
 
 ## REFERENCIAS
-https://www.ingmecafenix.com/automatizacion/sensores/guia-sensores/
-https://www.copadata.com/es/productos/zenon-software-platform/que-significa-hmi-interfaz-humano-maquina-copa-data/
+-https://www.ingmecafenix.com/automatizacion/sensores/guia-sensores/
+-https://www.copadata.com/es/productos/zenon-software-platform/que-significa-hmi-interfaz-humano-maquina-copa-data/
