@@ -34,3 +34,7 @@ Los sensores son aquellos que son capaces de transformar una magnitud física en
 
 **¿Qué es un acondicionador de señal? Y los diferentes que existen**
 Es un dispositivo que convierte la señal en un formato más fácil de leer, con el objetivo de que pueda ser más fácil de leer y procesar para un sistema como un PLC. Son esenciales en la adquisición de datos y en el control industrial, nos permiten obtener mediciones más precisas. Los tipos de sensores que existen son; de amplificación, que aumenta la magnitud de la señal, de aislamiento eléctrico que no permite que las señales no deseadas de la línea de entrada lleguen a la de salida, de compensación de unión fría que ajusta la señal del termopar para compensar las fluctuaciones a temperatura ambiente y de excitación, ya que muchos sensores necesitan una manera de excitación para funcionar. También existe conversiones por medio de optoacopladores que sirve para aislar los sistemas eléctricos.
+
+
+
+## REFERENCIAS##
