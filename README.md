@@ -17,7 +17,7 @@ Las siglas HMI significan, Human Machine Interface, es el sistema que hace posib
 
 Los elementos de un HMI son una pantalla de monitorización, un panel de mando y puertos de comunicación. Los puertos de comunicación son utilizados para programar la pantalla y comunicarla con otros dispositivos en la planta para que puedan comunicarse por medio del HMI.
 
-!![](https://raw.githubusercontent.com/FANDINO7/INVESTIGACION1/refs/heads/main/hmi-lagos-digital-1.webp)
+!![](https://raw.githubusercontent.com/FANDINO7/INVESTIGACION1/refs/heads/main/hmi-lagos-digital-1.webp
 
 
 **Menciona los elementos de un sistema de adquisición**
@@ -28,7 +28,7 @@ Constan de tres elementos esenciales; un sensor, un acondicionador de señal y u
 Los sensores son aquellos que son capaces de transformar una magnitud física en una diferencia de potencial o una variación de intensidad. Los tipos de sensores más comunes que existen son; los sensores de corriente eléctrica, los sensores magnéticos, los sensores de presión, de velocidad, de humedad, térmicos o de temperatura, de posición, de proximidad.
 
 
-![.]_https://github.com/FANDINO7/INVESTIGACION1/blob/main/SENSOR.jpg
+!![]()
 
 
 
