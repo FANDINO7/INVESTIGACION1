@@ -17,7 +17,7 @@ Las siglas HMI significan, Human Machine Interface, es el sistema que hace posib
 
 Los elementos de un HMI son una pantalla de monitorización, un panel de mando y puertos de comunicación. Los puertos de comunicación son utilizados para programar la pantalla y comunicarla con otros dispositivos en la planta para que puedan comunicarse por medio del HMI.
 
-!![]()
+!![](https://raw.githubusercontent.com/FANDINO7/INVESTIGACION1/refs/heads/main/hmi-lagos-digital-1.webp)
 
 
 **Menciona los elementos de un sistema de adquisición**
