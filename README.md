@@ -42,5 +42,5 @@ https://www.ingmecafenix.com/automatizacion/sensores/guia-sensores/
 https://www.copadata.com/es/productos/zenon-software-platform/que-significa-hmi-interfaz-humano-maquina-copa-data/
 
 
-** desarrollado por**
--ALBERTO fandiño https://github.com/FANDINO7/INVESTIGACION1/edit/main/README.md
+**desarrollado por**
+ALBERTO fandiño https://github
