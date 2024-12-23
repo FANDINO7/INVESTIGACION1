@@ -28,7 +28,7 @@ Constan de tres elementos esenciales; un sensor, un acondicionador de señal y u
 Los sensores son aquellos que son capaces de transformar una magnitud física en una diferencia de potencial o una variación de intensidad. Los tipos de sensores más comunes que existen son; los sensores de corriente eléctrica, los sensores magnéticos, los sensores de presión, de velocidad, de humedad, térmicos o de temperatura, de posición, de proximidad.
 
 
-!![]()
+!![](SENSOR.jpg)
 
 
 
